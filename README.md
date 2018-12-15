@@ -1,3 +1,3 @@
 # Reversing Bin & Code
 
-Python 2.7
+바이너리 있슴니다
